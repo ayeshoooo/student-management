@@ -1,0 +1,18 @@
+{
+  "name": "student-managment-system2",
+  "version": "1.1.2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": "./app.js",
+  "description": "",
+  "dependencies": {
+    "nanospinner": "^1.1.0",
+    "student-managment": "^1.0.0",
+    "student-managment-system2": "^1.1.2"
+  }
+}
